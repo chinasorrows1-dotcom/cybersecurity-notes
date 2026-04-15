@@ -2,7 +2,8 @@
 This is my journey learning cybersecurity
 ## What I've learned so far
 
-## TCP vs UDP
+## Networking
+### TCP vs UDP
 ### TCP:
 - Reliable
 - Data arrives in order
@@ -15,7 +16,8 @@ This is my journey learning cybersecurity
 - Used for streaming and gaming
 - He's a trooper - he keeps going with or without all the pieces
 
-## CRM
+## Business/Systems
+### CRM
 - Customer Relationship Management
 - Software companies use to keep track of customers and interactions
 - Stores customer data
@@ -23,6 +25,12 @@ This is my journey learning cybersecurity
 - Important for security (sensitive info)
 - A company notebook for customers
 
+### GRC
+- Governance, Risk, Compliance
+- A framework used by organizations to manage security policies (Governance), identify and reduce risks (Risk) and ensure they follow laws and regulations (Compliance)
+- Rules + risks + following laws
+- Basically auditors 
+ 
 ### Goals
 - Learn networking fundamentals
 - Understand Cybersecurity basics
