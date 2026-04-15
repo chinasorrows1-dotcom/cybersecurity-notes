@@ -2,13 +2,13 @@
 This is my journey learning cybersecurity
 ## What I've learned so far
 ### TCP vs UDP
-TCP:
+### TCP:
 - Reliable
 - Data arrives in order
 - Used for websites and email
 - waits for each packet to arrive
   
-UDP:
+### UDP:
 - Faster
 - No guarantee of delivery
 - used for streaming and gaming
